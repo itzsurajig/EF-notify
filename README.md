@@ -2,7 +2,7 @@
 
 QBCore Notification UI<br>
 
-This QBCore Notification UI Design By </BlasterSuraj>#9999  From ᴇғ ᴘʀᴏᴅᴜᴄᴛɪᴏɴs™<br>
+This QBCore Notification UI Design By BlasterSuraj  From ᴇғ ᴘʀᴏᴅᴜᴄᴛɪᴏɴs™<br>
 
 
 <h1>Buy Me A Coffee😊</h1><br>
