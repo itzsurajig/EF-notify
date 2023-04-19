@@ -13,6 +13,10 @@ Simply reach out to me and let me know how you've appreciated my work and I'll g
 Thank you for your support😊!<br>
 
 
+<h1>Free Download</h1>
+
+
+
 <h1>Installation</h1><br>
 
 - Copy the code that given in the [replace config code.lua] and paste it on config.lua in your qb-core folder From line no. 43 to 64<br>
