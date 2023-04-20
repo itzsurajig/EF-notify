@@ -15,6 +15,9 @@ Thank you for your support😊!<br>
 
 ![ef-notify](https://user-images.githubusercontent.com/104319683/233178636-b06399cc-2de1-46eb-8da4-37637ddfb250.png)
 
+![ef-notify ui](https://user-images.githubusercontent.com/104319683/233494674-ddd4d161-5b1d-4b70-9136-2230f5b01da6.PNG)
+![error ui notify](https://user-images.githubusercontent.com/104319683/233494678-c8af8920-4057-41db-9a3c-0156435cc062.PNG)
+
 
 <h2>Preview</h2><br>
 https://youtu.be/eP0ot5AavwQ
